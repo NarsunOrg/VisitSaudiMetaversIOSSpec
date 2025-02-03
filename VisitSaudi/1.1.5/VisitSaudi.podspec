@@ -45,7 +45,6 @@ spec.resource_bundles = {
   'VisitSaudiResources' => [
     'Unity-iPhone/Images.xcassets/**/*',
     'LaunchScreen-*.storyboard',
-    'UnityFramework/Info.plist',
     'MainApp/**/*.{mm}',
   ]
 }
