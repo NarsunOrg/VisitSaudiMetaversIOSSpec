@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'VisitSaudi'
-  spec.version      = '1.1.5'
+  spec.version      = '1.1.6'
   spec.summary      = 'Unity iOS project exported as a CocoaPod.'
   spec.description  = <<-DESC
     A Unity iOS project exported as-is and packaged into a private CocoaPod
